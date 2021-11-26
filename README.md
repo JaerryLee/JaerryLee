@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
---->
+📌 Programming Lang : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-📌 Programming Lang : #3776AB
+--->
