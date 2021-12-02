@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaerryLee.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML/CSS/JS and Flask.
+- 🌱 I’m currently learning HTML/CSS/JS.
 
 <!---
 JaerryLee/JaerryLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
