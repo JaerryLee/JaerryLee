@@ -1,7 +1,8 @@
+<!--
 - 👋 Hi, I’m @JaerryLee.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JS.
-
+-->
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
