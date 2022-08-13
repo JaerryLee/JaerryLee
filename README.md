@@ -1,4 +1,3 @@
-<!--
 - 👋 Hi, I’m @JaerryLee.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JS.
@@ -48,4 +47,3 @@ https://docs.github.com/en/get-started/quickstart/hello-world
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
---->
