@@ -37,5 +37,4 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 -->
-
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
