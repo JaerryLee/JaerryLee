@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
+![Jaerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaerrylee&show_icons=true&theme=dark)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
 
 <!--
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
