@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
+</div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
+
 <!--
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
@@ -37,5 +40,3 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 -->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
-  </div>
