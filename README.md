@@ -27,7 +27,7 @@
   -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljj1516)](https://solved.ac/ljj1516/)
   <br>
-![Jaerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaerrylee&show_icons=true&theme=dark)
+<!--![Jaerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaerrylee&show_icons=true&theme=dark)-->
 <!--
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
